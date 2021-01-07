@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AD Bank</string>
+    <string name="db_pref_adbank">adBankPref</string>
+    <string name="key_pref_login_status">loginStatus</string>
+    <string name="key_pref_login_username">username</string>
+    <string name="key_pref_login_password">password</string>
+    <string name="key_pref_login_email">email</string>
+    <string name="key_pref_login_verif">verifStatus</string>
+    <string name="key_pref_daily_reward_boolend">dailyStatus</string>
+    <string name="key_pref_daily_reward_time">timeDaily</string>
+    <string name="key_pref_lastDataReward">lastDataReward</string>
+
+
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".setting.SettingActivity"
+    android:orientation="vertical">
+
+<LinearLayout
+
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:background="@drawable/top1"
+    android:gravity="center"
+    app:titleTextColor="@color/frontColor2">
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:background="@drawable/setting"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="-5dp"
+        ></ImageView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-7dp"
+        android:fontFamily="@font/amarante"
+        android:text="Settings"
+        android:textAlignment="center"
+        android:textColor="@color/backColor"
+        android:textSize="20dp"></TextView>
+
+</LinearLayout>
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f7f7f7">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/logoutSide"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            android:orientation="horizontal">
+            <ImageView
+                android:src="@drawable/exitlogin"
+                android:rotation="180"
+                android:layout_height="25dp"
+                android:layout_width="25dp"
+                android:layout_marginRight="20dp">
+            </ImageView>
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:text="Log Out"
+                android:textSize="15dp"
+                >
+            </TextView>
+
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#e6e6e6">
+        </View>
+    </LinearLayout>
+</ScrollView>
+
+</LinearLayout>
