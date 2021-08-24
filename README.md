@@ -1,5 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/33568801/112197743-13d72200-8c15-11eb-9c23-f1d85fff7713.png)
+![image](app/src/main/res/mipmap-hdpi/ic_launcher.png)
 
 ![license](https://img.shields.io/github/license/Cryston98/extension_counter)
 ![issues](https://img.shields.io/github/issues/Cryston98/extension_counter)
