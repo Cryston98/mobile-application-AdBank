@@ -9,7 +9,7 @@ This application  categorizes software files by extension, to illustrate the con
 
 ## Installation
 
-* Start by downloading a release version from this repository. Click on [Releases](https://github.com/Cryston98/extension_counter/releases "Go to Releases") and download the .apk file
+* Start by downloading a release version from this repository. Click on [Releases]( https://github.com/Cryston98/mobile-application-AdBank/releases "Go to Releases") and download the .apk file
 * Install .apk file on your phone
 
 ## Usage
