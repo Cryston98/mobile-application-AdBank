@@ -13,16 +13,17 @@ This application  categorizes software files by extension, to illustrate the con
 * Install .apk file on your phone
 
 ## Application Interface
+<div style="display:inline">
+<img src="img/1.jpeg" width="300" height="600">
+<img src="img/2.jfif" width="300" height="600">
+<img src="img/3.jfif" width="300" height="600">
+<img src="img/4.jfif" width="300" height="600">
+<img src="img/5.jfif" width="300" height="600">
+<img src="img/6.jfif" width="300" height="600">
+<img src="img/7.jfif" width="300" height="600">
+<img src="img/8.jfif" width="300" height="600">
+</div>
 
-
-![basic CRUD](img/1.jpeg)
-![image](img/2.jfif)
-![image](img/3.jfif)
-![image](img/4.jfif)
-![image](img/5.jfif)
-![image](img/6.jfif)
-![image](img/7.jfif)
-![image](img/8.jfif)
 
 ## Developer
 
