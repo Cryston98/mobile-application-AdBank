@@ -15,7 +15,7 @@ This application  categorizes software files by extension, to illustrate the con
 ## Application Interface
 
 
-![image](img/1.jpeg)
+![basic CRUD](img/1.jpeg)
 ![image](img/2.jfif)
 ![image](img/3.jfif)
 ![image](img/4.jfif)
