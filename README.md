@@ -16,11 +16,13 @@ This application  categorizes software files by extension, to illustrate the con
 
 
 ![image](img/1.jpeg)
-![image](img/2.tfif)
-![image](img/1.jpeg)
-![image](img/1.jpeg)
-![image](img/1.jpeg)
-
+![image](img/2.jfif)
+![image](img/3.jfif)
+![image](img/4.jfif)
+![image](img/5.jfif)
+![image](img/6.jfif)
+![image](img/7.jfif)
+![image](img/8.jfif)
 
 ## Developer
 
