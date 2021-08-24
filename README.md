@@ -4,8 +4,7 @@
 ![license](https://img.shields.io/github/license/Cryston98/extension_counter)
 ![issues](https://img.shields.io/github/issues/Cryston98/extension_counter)
 
-This application  categorizes software files by extension, to illustrate the contents of a software project
-
+This application creates the possibility to obtain benefits, and access to premium features of the applications, watching ads, playing the game, and receiving daily bonuses. You can use this application to transfer money to another application associated with AdBank Project and use this money to buy some premium benefits.
 
 ## Installation
 
